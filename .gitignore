@@ -62,4 +62,4 @@ panNote.md
 教学大纲*/
 
 # Ignore clean_data.py
-clean_data.py
+/clean_data.py
